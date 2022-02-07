@@ -7,13 +7,13 @@ git leture repositori
 create branch
 
 ## チームメンバー
+* movadelsol
+* hal
 
 
 ## Git fetch
 Do not update local files
 
-* movadelsol
-* hal
 
 ## Git pull
 update local failes
