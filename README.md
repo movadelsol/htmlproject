@@ -5,3 +5,7 @@ git leture repositori
 
 ## 使い方
 create branch
+
+## チームメンバー
+movadelsol
+hal
