@@ -7,5 +7,8 @@ git leture repositori
 create branch
 
 ## チームメンバー
-movadelsol
-hal
+* movadelsol
+* hal
+
+## Git pull
+update local failes
