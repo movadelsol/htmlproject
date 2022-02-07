@@ -9,3 +9,6 @@ create branch
 ## チームメンバー
 movadelsol
 hal
+
+## Git fetch
+Do not update local files
